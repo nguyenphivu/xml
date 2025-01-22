@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Asp>
+  <Status>1</Status>
+  <Contents seq="1004088">
+    <Start>2025/01/22 12:18:15</Start>
+    <End>2025/01/23 03:05:00</End>
+    <Update>2025/01/22 12:18:15</Update>
+    <Area>0</Area>
+    <Type>1</Type>
+    <Text seq="1" lang="ja"><![CDATA[aaaaa]]></Text>
+    <Text seq="2" lang="en"><![CDATA[TRANSLATED: from ja to en : aaaaa]]></Text>
+    <Text seq="3" lang="cn"><![CDATA[TRANSLATED: from ja to zh : aaaaa]]></Text>
+    <Text seq="4" lang="kr"><![CDATA[TRANSLATED: from ja to ko : aaaaa]]></Text>
+    <Title seq="1" lang="ja"><![CDATA[aaaaaaa]]></Title>
+    <Title seq="2" lang="en"><![CDATA[TRANSLATED: from ja to en : aaaaaaa]]></Title>
+    <Title seq="3" lang="cn"><![CDATA[TRANSLATED: from ja to zh : aaaaaaa]]></Title>
+    <Title seq="4" lang="kr"><![CDATA[TRANSLATED: from ja to ko : aaaaaaa]]></Title>
+  </Contents>
+  <Contents seq="2004096">
+    <Start>2025/01/22 15:12:51</Start>
+    <End>2025/01/23 17:12:00</End>
+    <Update>2025/01/22 15:12:51</Update>
+    <Area>0</Area>
+    <Type>2</Type>
+    <Text seq="1" lang="ja"><![CDATA[chung test bla bla update them textテストテストテストテストテストテストテストテスト]]></Text>
+    <Text seq="2" lang="en"><![CDATA[TRANSLATED: from ja to en : chung test bla bla]]></Text>
+    <Text seq="3" lang="cn"><![CDATA[TRANSLATED: from ja to zh : chung test bla bla]]></Text>
+    <Text seq="4" lang="kr"><![CDATA[TRANSLATED: from ja to ko : chung test bla bla a vu check]]></Text>
+    <Title seq="1" lang="ja"><![CDATA[殺人の発生について_gd_update]]></Title>
+    <Title seq="2" lang="en"><![CDATA[TRANSLATED: from ja to en : 殺人の発生について]]></Title>
+    <Title seq="3" lang="cn"><![CDATA[TRANSLATED: from ja to zh : 殺人の発生について]]></Title>
+    <Title seq="4" lang="kr"><![CDATA[TRANSLATED: from ja to ko : 殺人の発生について]]></Title>
+  </Contents>
+</Asp>
