@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
-        <item rdfabout="http://cms27.dev6.local/system/anzen/4595.html">
+        <item rdfabout="http://cms27.dev6.local/system/anzen/4595.html?v=1">
             <title>侵入強盗（殺人）の発生について</title>
-            <link>http://cms27.dev6.local/system/anzen/4595.html</link>
+            <link>http://cms27.dev6.local/system/anzen/4595.html?v=1</link>
             <description>[static]content mail 2025年2月14日19時30.4</description>
             <dc:creator>港区</dc:creator>
             <dc:subject>安全に関する情報</dc:subject>
